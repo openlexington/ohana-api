@@ -1,2 +1,70 @@
 id,location_id,street_1,street_2,city,state,postal_code,country_code
 1,1,203 Burkesville St.,Ste. 111,Columbia,KY,42728,US
+2,2,2 Dortha Ave.,,"Florence,",KY,41042,US
+3,3,375 Weaver Rd,,Florence,KY,41042,US
+4,4,18 Clinic Drive,,Paris,KY,40361,US
+5,5,1212 Bath avenue suite 101,,Ashland,KY,41101,US
+6,6,920 Frederica Street,,Owensboro,KY,42301,US
+7,7,PO BOX 315,,Owensboro,KY,42302,US
+8,8,4301 Veach Road,,Owensboro,KY,42303,US
+9,9,1351 Newtown Pike Building 5,,Lexington,KY,40511,US
+10,10,1589 Hill Rise Drive,,Lexington,KY,40504,US
+11,11,360 West Loudon Ave,,Lexington,KY,40508,US
+12,12,1524 Versailles Road,,Versailles,KY,40504,US
+13,13,360 w louden,,lex,KY,40508,US
+14,14,"2401 Regency Rd., Ste 102",,Lexington,KY,40503,US
+15,15,3479 buckhorn drive suite 106,,Lexington,KY,40511,US
+16,16,154 Bonnie Brae Dr.,,Lexington,KY,40508,US
+17,17,3050 Rio Dosa Drive,,Lexington,KY,40509,US
+18,18,106 Dennis Drive,,Lexington,KY,40503,US
+19,19,2250 Leestown Rd. Bldg 29-2,,Lexington,KY,40502,US
+20,20,125 S Main Cross St,,Louisa,KY,41230,US
+21,21,2225 Lawrenceburg Rd Bldg C,,Frankfort,KY,40601,US
+22,22,303 West High Street,,Warsaw,KY,41095,US
+23,23,227 Monroe Street,,Hawesville,KY,42348,US
+24,24,7 Public Square,,Elizabethtown,KY,42801,US
+25,25,615 westport Rd.,,elizabethtown,KY,42701,US
+26,26,6050 HWY 38,,Evarts,KY,40838,US
+27,27,216 South Main Street,,Cynthiana,KY,41031,US
+28,28,56 North McKinley Street,,Henderson,KY,42420,US
+29,29,"5404 Valley Station Road, Suite 102",,Louisville,KY,40272,US
+30,30,503 Washburn Ave Suite 203,,Louisville,KY,40222,US
+31,31,6801 DIXIE HWY SUITE 230,,LOUISVILLE,KY,40258,US
+32,32,1169 Eastern Parkway Suite 1138 Louisville Ky 40217,,same,KY,40217,US
+33,33,1402A Browns Lane,,Louisville,KY,40207,US
+34,34,"Dupont Professional Towers , 4010 Dupont Circle, Suite 226",,Louisville,KY,40207,US
+35,35,116 Bauer Ave. Second Floor,,Louisville,KY,40207,US
+36,36,8521 LaGrange Rd,,Louisville,KY,40242,US
+37,37,1503 S. 15 Street,,Louisville,KY,40210,US
+38,38,1448 South 15th Street,,Louisville,KY,40210,US
+39,39,1436 S. Shelby St.,,Louisville,KY,40217,US
+40,40,213 Edgewood Plaza,,Nicholasville,KY,40356,US
+41,41,504 North Main Street,,Nicholasville,KY,40356,US
+42,42,1005 Broadway Street,,Paintsville,KY,41240j,US
+43,43,3629 Church St,,Covington,KY,41015,US
+44,44,1629 Madison Avenue,,Covington,KY,41073,US
+45,45,610 American Greeting Road,,Corbin,KY,40701,US
+46,46,3825 Marydale Road,,London,KY,42741,US
+47,47,"501 Darby Creek Road, Suite 11",,Lexington,KY,40509,US
+48,48,210 St George St Suite 105,,Richmond,KY,40475,US
+49,49,"901 US HWY 68, Ste 900",,Maysville,KY,41056,US
+50,50,1325 US HWY 45 N,,Mayfield,KY,42066,US
+51,51,236 Bridgett Drive,,Mount Sterling,KY,40353,US
+52,52,132 North Main Street and 113 South 3rd St. Central City KY 42330,,Greenville,KY,42345,US
+53,53,48 Independnce Drive,,Hazard,KY,41701,US
+54,54,104 South Front Ave,,Prestonsburg,KY,41653,US
+55,55,290 East Court Street,,Prestonsburg,KY,41653,US
+56,56,10057 Elkhorn Creek Road,,Ashcamp,KY,41512,US
+57,57,"611 Forest Avenue, Maysville, Ky. 41056",,Maysville,KY,41056,US
+58,58,The Blair Building 241 East Main Street,,Morehead,KY,40351,US
+59,59,72 High Street,,Russell Springs,KY,42642,US
+60,60,"3107 Cincinnati Road Georgetown, KY.",,Georgetown,KY,40324,US
+61,61,12730 Townparke Way Suite 201,,Louisville,KY,40243,US
+62,62,920 Clay St,,Bowling Green,KY,42101,US
+63,63,1500 Parkside Drive,,Bowling Green,KY,42101,US
+64,64,380 Suwannee Trail Street,,Bowling Green,KY,42103,US
+65,65,822 Woodway Drive,,Bowling Green,KY,42101,US
+66,66,2349 RUSSELLVILLE ROAD,,BOWLING GREEN,KY,42101,US
+67,67,640 Wright Avenue,,Bowling Green,KY,42101,US
+68,68,130 Southern School Road,,Somerset,KY,42501,US
+69,69,1351 Newtown Pike,,Lexington,KY,40511,US
